@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <Button android:text="WhatsApp"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnWhatsapp"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"
+        android:layout_marginTop="40dip"/>
+
+    <Button android:text="Linkedin"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnLinkedin"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="Twitter"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnTwitter"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="Facebook"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnFacebook"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="Google Plus"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnGooglePlus"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="We Chat"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnWeChat"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="Mesajlaşma"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnSms"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="Snapchat"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnSnapchat"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="Telegram"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnTelegram"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+
+    <Button android:text="WunderList"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btnWunderList"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"/>
+</LinearLayout>
